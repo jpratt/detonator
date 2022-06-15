@@ -1,0 +1,2 @@
+# detonator
+EMP detonator bot
